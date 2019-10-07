@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: FreeSlot
+## Author: EricaPomme
+## Version: 0.1
+
+FreeSlot.lua
